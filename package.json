@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hey-api/client-fetch": "^0.2.4",
     "@slack/web-api": "^7.4.0",
     "next": "14.2.11",
     "node-fetch": "^3.3.2",
@@ -16,6 +17,7 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@hey-api/openapi-ts": "^0.53.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
